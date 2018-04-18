@@ -1,6 +1,4 @@
-# simple-auth
-
-# Node Token Authentication
+# Simple Auth using Tokens
 
 This repo uses JSON Web Tokens and the [jsonwebtoken](https://github.com/auth0/node-jsonwebtoken) package to implement token based authentication on a simple Node.js API.
 
